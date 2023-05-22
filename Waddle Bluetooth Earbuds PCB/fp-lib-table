@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Waddle_Footprint_Library")(type "KiCad")(uri "${KIPRJMOD}/Waddle_Footprint_Library.pretty")(options "")(descr ""))
+)
